@@ -1,4 +1,4 @@
-<plugin name="cordova-plugin-whitelist"      source="npm" spec="1.1.0" />
+<plugin name="cordova-plugin-whitelist" />
 <allow-navigation href="*" />
 <allow-intent href="*" />
 <access origin="*" />
